@@ -5,6 +5,7 @@ Simple Xamarin.Android library to return the device model.
 *******
 Will keep device list updated with devices that work with Google Play. At current moment 3/20/2018 list contains 18,554 devices.
 
+
 Updates:<br/>
 03/19/2018 - Created<br/>
 *******
