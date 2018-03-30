@@ -15,10 +15,10 @@
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
     <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <Description>Xamarin Helper Library to get the name of the current Android device.</Description>
-    <ReleaseVersion>1.0</ReleaseVersion>
+    <ReleaseVersion>1.1</ReleaseVersion>
     <SynchReleaseVersion>false</SynchReleaseVersion>
     <PackageId>dannycabrera.GetDroidModel</PackageId>
-    <PackageVersion>1.0</PackageVersion>
+    <PackageVersion>1.1</PackageVersion>
     <Authors>Danny Cabrera</Authors>
     <PackageLicenseUrl>https://github.com/dannycabrera/GetDroidModel/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/dannycabrera/GetDroidModel</PackageProjectUrl>
@@ -27,7 +27,8 @@
     <Title>Get Android device model details for Xamarin</Title>
     <NeutralLanguage>es-US</NeutralLanguage>
     <Owners>Danny Cabrera</Owners>
-    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <PackageReleaseNotes>Includes 277 updates (changes + new additions). Device list now contains 18,790 devices.</PackageReleaseNotes>
+    <TargetFrameworkVersion>v4.0.3</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -48,6 +49,9 @@
     <WarningLevel>4</WarningLevel>
     <AndroidManagedSymbols>true</AndroidManagedSymbols>
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <EnableLLVM>false</EnableLLVM>
+    <DelaySign>false</DelaySign>
+    <NoWarn></NoWarn>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
