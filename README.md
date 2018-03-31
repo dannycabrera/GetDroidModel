@@ -1,5 +1,6 @@
 GetDroidModel
 =============
+[![Build status](https://build.appcenter.ms/v0.1/apps/ac246072-f75a-410e-9850-5b622b4595f2/branches/master/badge)](https://appcenter.ms)
 
 Simple Xamarin.Android library to return the device model.
 *******
