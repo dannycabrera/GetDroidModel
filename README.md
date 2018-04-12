@@ -25,7 +25,7 @@ Sample
 
 ```
 // Example for model SM-G960F
-Console.WriteLine(GetDroidModel.DeviceHardware.Model());
+Console.WriteLine(GetDroidModel.DeviceHardware.GetModel());
 ```
 
 Result: "Galaxy S9"
@@ -33,7 +33,7 @@ Result: "Galaxy S9"
 
 ```
 // Return name including manufacturer
-Console.WriteLine(GetDroidModel.DeviceHardware.Model(defaultValue: "Unknown", includeManufacturer: true));
+Console.WriteLine(GetDroidModel.DeviceHardware.GetModel(defaultValue: "Unknown", includeManufacturer: true));
 ```
 
 Result: "Samsung Galaxy S9"
@@ -41,7 +41,7 @@ Result: "Samsung Galaxy S9"
 
 ```
 // If device is not listed:
-Console.WriteLine(GetDroidModel.DeviceHardware.Model(defaultValue: "Unknown"));
+Console.WriteLine(GetDroidModel.DeviceHardware.GetModel(defaultValue: "Unknown"));
 ```
 
 Result: "Unknown"
