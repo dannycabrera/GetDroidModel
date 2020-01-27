@@ -8,7 +8,7 @@ Will keep device list updated with devices that work with Google Play. At curren
 
 If you need an iOS library check out my other repo https://github.com/dannycabrera/Get-iOS-Model.
 
-Updates:<br/>
+**Updates:**<br/>
 01/26/2020 - Updated to v1.3, 6,694 updates (changes + new additions):<br/>
 https://gist.github.com/dannycabrera/7cdf76be183063b5394362d10f0ecd7c<br/>
 <br/>
