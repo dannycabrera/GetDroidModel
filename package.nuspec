@@ -2,14 +2,14 @@
 <package>
   <metadata>
     <!--*-->
-    <id>GetDroidModel</id>
+    <id>dannycabrera.GetDroidModel</id>
     <!--*-->
     <version>1.3.0</version>
     <title>GetDroidModel</title>
     <!--*-->
     <authors>Danny Cabrera</authors>
     <owners>Danny Cabrera</owners>
-    <licenseUrl>https://github.com/dannycabrera/GetDroidModel/blob/master/LICENSE</licenseUrl>
+    <license type="expression">MIT</license>
     <projectUrl>https://github.com/dannycabrera/GetDroidModel</projectUrl>
     <iconUrl>https://github.com/dannycabrera/GetDroidModel/raw/master/Icons/GetDroidModel.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
