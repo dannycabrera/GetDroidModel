@@ -1,8 +1,15 @@
 GetDroidModel
 =============
+Simple Xamarin.Android library to return the device model.
+*******
+
+|  Build Status  |
+|:----------|
 [![Build status](https://build.appcenter.ms/v0.1/apps/ac246072-f75a-410e-9850-5b622b4595f2/branches/master/badge)](https://appcenter.ms)
 
-Simple Xamarin.Android library to return the device model.
+|  Package  |
+|:----------|
+|[![NuGet Badge GetDroidModel](https://buildstats.info/nuget/dannycabrera.GetDroidModel)](https://www.nuget.org/packages/dannycabrera.GetDroidModel)|
 *******
 Will keep device list updated with devices that work with Google Play. At current moment 1/26/2020 list contains 27,005 devices.
 
