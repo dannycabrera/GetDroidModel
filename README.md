@@ -4,11 +4,14 @@ GetDroidModel
 
 Simple Xamarin.Android library to return the device model.
 *******
-Will keep device list updated with devices that work with Google Play. At current moment 1/26/2020 list contains 27,005 devices.
+Will keep device list updated with devices that work with Google Play. At current moment 4/1/2020 list contains 28,033 devices.
 
 If you need an iOS library check out my other repo https://github.com/dannycabrera/Get-iOS-Model.
 
 **Updates:**<br/>
+04/01/2020 - Updated to v1.4, 1,417 updates (changes + new additions):<br/>
+https://gist.github.com/dannycabrera/65cd5b32a6ef7361b6aa6f9cf659580e<br/>
+<br/>
 01/26/2020 - Updated to v1.3, 6,694 updates (changes + new additions):<br/>
 https://gist.github.com/dannycabrera/7cdf76be183063b5394362d10f0ecd7c<br/>
 <br/>

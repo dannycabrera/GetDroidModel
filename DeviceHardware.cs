@@ -56,7 +56,7 @@ namespace GetDroidModel
             {
                 var deviceName = droidDevice.MarketingName == "" ? droidDevice.Model : droidDevice.MarketingName;
 
-                if (includeManufacturer && deviceName.StartsWith(droidDevice.Manufacturer, System.StringComparison.OrdinalIgnoreCase))
+                if (includeManufacturer && !deviceName.StartsWith(droidDevice.Manufacturer, System.StringComparison.OrdinalIgnoreCase))
                     return $"{droidDevice.Manufacturer} {deviceName}";
                 
                 return deviceName;
