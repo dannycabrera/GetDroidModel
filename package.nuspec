@@ -16,7 +16,7 @@
     <!--*-->
     <description>Xamarin Helper Library to get the name of the current Android device.</description>
     <!--*-->
-    <releaseNotes>Update includes 1,417 device updates (changes + new additions) and master list now contains 28,033 devices. Also corrected bug that prevented manufacturer name from being applied.</releaseNotes>
+    <releaseNotes>Includes 1,805 updates (changes + new additions). Device list now contains 29,766 devices.</releaseNotes>
     <copyright>(c) Danny Cabrera</copyright>
     <tags>Xamarin, Droid, Android, Device, Hardware, Model</tags>
     <dependencies>
